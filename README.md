@@ -45,11 +45,12 @@ Analisar o faturamento das assinaturas, comparar produtos e avaliar o impacto do
 ## 👤 Autor
 
 Desenvolvido por: fperinsantos
+
 Ano: 2026
 
 ---
 
 ## 📄 Licença
 
-Uso educacional e acadêmico.# Dashboard
+Uso educacional e acadêmico.
 Dashboard interativo para análise das vendas de assinaturas do Xbox Game Pass
